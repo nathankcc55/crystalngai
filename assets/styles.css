@@ -56,10 +56,12 @@ body {
     width: 300px;
     height: 300px;
     margin-bottom: 15px auto;
+    background-repeat: no-repeat;
+    background-size: contain;
 }
 
 .img-fluid {
-    width: 100%;
+    width: 70%;
     height: auto;
     display: block;
     margin: 0 auto;
