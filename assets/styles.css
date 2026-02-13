@@ -56,8 +56,6 @@ body {
     width: 300px;
     height: 300px;
     margin-bottom: 15px auto;
-    background-repeat:  no-repeat;
-    background-size: contain;
 }
 
 .img-fluid {
