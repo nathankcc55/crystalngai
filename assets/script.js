@@ -5,7 +5,7 @@ const alternatives = [
     {text:"Come on now, say yes!", images:"./assets/images/4.gif"},
 ];
 
-const ohyes = {text:"I knew you would accept!", images:"./assets/images/valen.jpg"};
+const ohyes = {text:"I knew you would accept! ILY 3221", images:"./assets/images/valen.jpg"};
 const title = document.querySelector('.title');
 const text = document.querySelector('.text');
 const cat = document.querySelector('.cat');
